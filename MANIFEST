@@ -1,0 +1,13 @@
+Changes
+Makefile.PL
+MANIFEST
+Ptrace.xs
+README
+t/0.load.t
+t/1.pt_trace_me.t
+t/2.pt_getcall.t
+t/3.pt_syscall.t
+t/4.pt_kill.t
+t/5.pt_attach.t
+t/6.pt_detach.t
+lib/Linux/x86_64/Ptrace.pm

@@ -1,0 +1,6 @@
+Revision history for Perl extension Linux::x86_64::Ptrace.
+
+0.01  Tue Oct 26 08:27:58 2010
+	- original version; created by h2xs 1.23 with options
+		-e -n Linux::x86_64::Ptrace sys/ptrace.h
+
